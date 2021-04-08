@@ -8,7 +8,17 @@ body {
 	min-height: 100vh;
 	letter-spacing: 2px;
 	display: flex;
+	font-family: 'Work Sans', sans-serif;
 	align-items: center;
 	justify-content: center;
 	background-color: #81b214;
+}
+
+.container {
+	width: 580px;
+	height: 430px;
+	display: flex;
+	background-color: #f58634;
+	flex-direction: column;
+	align-items: center;
 }
